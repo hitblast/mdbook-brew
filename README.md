@@ -1,10 +1,6 @@
-<div align="center">
-
 # mdbook-brew
 
 A Homebrew-inspired mdBook theme
-
-</div>
 
 ## Overview
 
@@ -56,6 +52,9 @@ mdbook-brew is a theme for the [mdBook](https://rust-lang.github.io/mdBook/) uti
 8. Enjoy!
 
 ## Screenshots
+
+> [!NOTE]
+> The project showcased in the screenshot is [cutler](https://github.com/hitblast/cutler).
 
 <img src="screenshots/1.png">
 <img src="screenshots/2.png">
