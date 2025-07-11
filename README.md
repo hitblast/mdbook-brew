@@ -54,7 +54,7 @@ mdbook-brew is a theme for the [mdBook](https://rust-lang.github.io/mdBook/) uti
 ## Screenshots
 
 > [!NOTE]
-> The project showcased in the screenshots is [cutler](https://github.com/hitblast/cutler).
+> The project showcased in the screenshots is [cutler](https://github.com/cutlerCLI/cutler).
 
 <img src="screenshots/1.png">
 <img src="screenshots/2.png">
